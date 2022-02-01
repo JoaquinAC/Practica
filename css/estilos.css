@@ -1,0 +1,10 @@
+body {
+    background-color: gray;
+    position: relative;
+    font-size: 30px;
+}
+
+.parrafo { 
+    position: relative;
+    top: 30px;
+}
